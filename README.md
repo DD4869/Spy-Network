@@ -1,4 +1,4 @@
-THis is a Spy-Network framework.The basic idea is to allow spies to communicate with 
+This is a Spy-Network framework.The basic idea is to allow spies to communicate with 
 other spies in the network in a secure (encrypted) manner. It is implemented using Observer Pattern.
 
 - There are three entities within the network: a home base, field bases, and spies. There may
